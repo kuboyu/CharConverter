@@ -1,5 +1,8 @@
 *.dll
 lib/*.jar
+target/*
+!target/CharConverter.jar
+!target/CharConverter-jar-with-dependencies.jar
 
 #Ignore thumbnails created by Windows
 Thumbs.db
